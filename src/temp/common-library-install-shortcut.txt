@@ -1,5 +1,3 @@
-# BSS_React_Redux_Starter_File_With_Common_Used_Library
-
 ## Redux , Routing , Midelware Libray Install
 
 npm install --save redux react-redux react-router-dom connected-react-router redux-thunk history redux-saga redux-logger
